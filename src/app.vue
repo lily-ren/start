@@ -4,6 +4,7 @@
     <fx-radio v-model="radio" label="1">备选项</fx-radio>
     <fx-radio v-model="radio" label="2">备选项</fx-radio>
     <div><p>lallalal</p></div>
+</div>
 </template>
 <style> 
    
